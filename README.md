@@ -36,29 +36,28 @@ These mini-projects bridge theory and practice through MATLAB implementations. K
 ### Assignments
 - **CA1 - Sampling, DTFT, LTI Systems Analysis**  
   - `codes/`  
-    - MATLAB scripts (`.m`, `.mlx`)  
+    - MATLAB scripts (`.m`)  
     - 🎵 Audio samples  
     - 📊 Excel datasets  
-  - `reports/`  
+  - `report/`  
     - Assignment questions (PDF)  
     - Report in Persian (PDF)  
     - Report in Persian (`.docx`)  
 
 - **CA2 - Digital Filter Design & Audio Processing**  
   - `codes/`  
-    - FIR/IIR filter design scripts  
+    - MATLAB scripts (`.m`)  
     - 🎵 Audio processing examples  
     - 📈 Frequency response plots  
-  - `reports/`  
+  - `report/`  
     - Assignment questions (PDF)  
     - Report in Persian (PDF)  
     - Report in Persian (`.docx`)  
 
 - **CA3 - DFT, FFT, Convolution & Image Denoising**  
   - `codes/`  
-    - FFT/convolution implementations  
-    - 🖼️ Image datasets  
-    - 📉 Denoising algorithms  
+    - MATLAB scripts (`.m`)   
+    - 🖼️ Image examples 
   - `reports/`  
     - Assignment questions (PDF)  
     - Report in Persian (PDF)  
