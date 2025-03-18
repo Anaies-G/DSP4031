@@ -1,6 +1,6 @@
 # Digital Signal Processing (DSP) Course Assignments
 
-![MATLAB](https://img.shields.io/badge/MATLAB-R2023b-blue.svg) 
+![MATLAB](https://img.shields.io/badge/MATLAB-R2024b-blue.svg) 
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 This repository contains **Computer Assignments** for the *Digital Signal Processing* course taught by **Dr. Maryam Mohebbi** at K.N. Toosi University of Technology (KNTU) during **Fall 2024 - Winter 2025**. The assignments focus on implementing core DSP concepts using MATLAB for hands-on learning.
