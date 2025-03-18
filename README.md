@@ -30,38 +30,17 @@ These mini-projects bridge theory and practice through MATLAB implementations. K
 - **System Analysis** (frequency response, pole-zero plots, and stability)
 - **FFT Applications** (signal reconstruction and spectral leakage reduction)
 
-### Example Projects
-1. Designing Butterworth/Chebyshev filters for audio signals.
-2. Implementing multi-rate systems for image resampling.
-3. Analyzing LTI systems using Z-transform and frequency-domain methods.
+---
 
-### Folder Structure
-📦 dsp-assignments-kntu
-┣ 📂 CA1 - Sampling, DTFT, LTI Systems Analysis
-┃ ┣ 📂 codes
-┃ ┃ ┣ 📜 MATLAB scripts (.m/.mlx)
-┃ ┃ ┣ 🎵 Audio samples
-┃ ┃ ┣ 📊 Excel datasets
-┃ ┃ ┗ 🖼️ Example images
-┃ ┗ 📂 reports
-┃   ┣ 📜 Assignment questions (PDF)
-┃   ┣ 📄 Report in Persian (PDF)
-┃   ┗ 📄 Report in Persian (.docx)
-┣ 📂 CA2 - Digital Filter Design & Audio Processing
-┃ ┣ 📂 codes
-┃ ┃ ┣ 📜 Filter design scripts (FIR/IIR)
-┃ ┃ ┣ 🎵 Audio processing examples
-┃ ┃ ┗ 📈 Frequency response plots
-┃ ┗ 📂 reports
-┃   ┣ 📜 Assignment questions (PDF)
-┃   ┣ 📄 Report in Persian (PDF)
-┃   ┗ 📄 Report in Persian (.docx)
-┗ 📂 CA3 - DFT, FFT, Convolution & Image Denoising
-  ┣ 📂 codes
-  ┃ ┣ 📜 FFT/convolution implementations
-  ┃ ┣ 🖼️ Image datasets
-  ┃ ┗ 📉 Denoising algorithms
-  ┗ 📂 reports
-    ┣ 📜 Assignment questions (PDF)
-    ┣ 📄 Report in Persian (PDF)
-    ┗ 📄 Report in Persian (.docx)
+
+### Assignment Topics
+- **CA1**:  
+  Sampling theory, DTFT analysis, LTI system characterization, and aliasing effects.
+- **CA2**:  
+  Butterworth/Chebyshev filter design, audio signal processing, and frequency response analysis.
+- **CA3**:  
+  DFT/FFT implementations, linear/circular convolution, image denoising, and spectral leakage reduction.
+
+---
+
+
