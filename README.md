@@ -31,7 +31,38 @@ These mini-projects bridge theory and practice through MATLAB implementations. K
 - **FFT Applications** (signal reconstruction and spectral leakage reduction)
 
 ---
-
+📦 dsp-assignments-kntu
+├── 📂 CA1 - Sampling, DTFT, LTI Systems
+│ ├── 📂 codes
+│ │ ├── 📜 MATLAB scripts (.m/.mlx)
+│ │ ├── 🎵 Audio samples
+│ │ ├── 📊 Excel datasets
+│ │ └── 🖼️ Example images
+│ └── 📂 reports
+│ ├── 📜 Assignment Questions (PDF)
+│ ├── 📄 Report (Persian - PDF)
+│ └── 📄 Report (Persian - .docx)
+│
+├── 📂 CA2 - Filter Design & Audio Processing
+│ ├── 📂 codes
+│ │ ├── 📜 FIR/IIR filter scripts
+│ │ ├── 🎵 Audio processing examples
+│ │ └── 📈 Frequency response plots
+│ └── 📂 reports
+│ ├── 📜 Assignment Questions (PDF)
+│ ├── 📄 Report (Persian - PDF)
+│ └── 📄 Report (Persian - .docx)
+│
+└── 📂 CA3 - DFT, FFT, Convolution & Image Denoising
+├── 📂 codes
+│ ├── 📜 FFT/convolution algorithms
+│ ├── 🖼️ Image datasets
+│ └── 📉 Denoising implementations
+└── 📂 reports
+├── 📜 Assignment Questions (PDF)
+├── 📄 Report (Persian - PDF)
+└── 📄 Report (Persian - .docx)
+---
 
 ### Assignment Topics
 - **CA1**:  
