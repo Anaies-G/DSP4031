@@ -70,4 +70,6 @@ These mini-projects bridge theory and practice through MATLAB implementations. K
 
 ---
 
+## Contact
 
+Feel free to contact me at [anaies.g.2004@gmail.com](mailto:anaies.g.2004@gmail.com) with any questions.
