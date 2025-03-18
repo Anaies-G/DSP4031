@@ -31,46 +31,43 @@ These mini-projects bridge theory and practice through MATLAB implementations. K
 - **FFT Applications** (signal reconstruction and spectral leakage reduction)
 
 ---
-📦 dsp-assignments-kntu
-├── 📂 CA1 - Sampling, DTFT, LTI Systems
-│ ├── 📂 codes
-│ │ ├── 📜 MATLAB scripts (.m/.mlx)
-│ │ ├── 🎵 Audio samples
-│ │ ├── 📊 Excel datasets
-│ │ └── 🖼️ Example images
-│ └── 📂 reports
-│ ├── 📜 Assignment Questions (PDF)
-│ ├── 📄 Report (Persian - PDF)
-│ └── 📄 Report (Persian - .docx)
-│
-├── 📂 CA2 - Filter Design & Audio Processing
-│ ├── 📂 codes
-│ │ ├── 📜 FIR/IIR filter scripts
-│ │ ├── 🎵 Audio processing examples
-│ │ └── 📈 Frequency response plots
-│ └── 📂 reports
-│ ├── 📜 Assignment Questions (PDF)
-│ ├── 📄 Report (Persian - PDF)
-│ └── 📄 Report (Persian - .docx)
-│
-└── 📂 CA3 - DFT, FFT, Convolution & Image Denoising
-├── 📂 codes
-│ ├── 📜 FFT/convolution algorithms
-│ ├── 🖼️ Image datasets
-│ └── 📉 Denoising implementations
-└── 📂 reports
-├── 📜 Assignment Questions (PDF)
-├── 📄 Report (Persian - PDF)
-└── 📄 Report (Persian - .docx)
----
+## 📂 Folder Structure
 
-### Assignment Topics
-- **CA1**:  
-  Sampling theory, DTFT analysis, LTI system characterization, and aliasing effects.
-- **CA2**:  
-  Butterworth/Chebyshev filter design, audio signal processing, and frequency response analysis.
-- **CA3**:  
-  DFT/FFT implementations, linear/circular convolution, image denoising, and spectral leakage reduction.
+### Assignments
+- **CA1 - Sampling, DTFT, LTI Systems Analysis**  
+  - `codes/`  
+    - MATLAB scripts (`.m`, `.mlx`)  
+    - 🎵 Audio samples  
+    - 📊 Excel datasets  
+  - `reports/`  
+    - Assignment questions (PDF)  
+    - Report in Persian (PDF)  
+    - Report in Persian (`.docx`)  
+
+- **CA2 - Digital Filter Design & Audio Processing**  
+  - `codes/`  
+    - FIR/IIR filter design scripts  
+    - 🎵 Audio processing examples  
+    - 📈 Frequency response plots  
+  - `reports/`  
+    - Assignment questions (PDF)  
+    - Report in Persian (PDF)  
+    - Report in Persian (`.docx`)  
+
+- **CA3 - DFT, FFT, Convolution & Image Denoising**  
+  - `codes/`  
+    - FFT/convolution implementations  
+    - 🖼️ Image datasets  
+    - 📉 Denoising algorithms  
+  - `reports/`  
+    - Assignment questions (PDF)  
+    - Report in Persian (PDF)  
+    - Report in Persian (`.docx`)  
+
+### Key Topics by Assignment
+- **CA1**: Sampling theory, DTFT analysis, LTI system stability, and aliasing effects.  
+- **CA2**: Butterworth/Chebyshev filters, FIR/IIR design, and audio signal enhancement.  
+- **CA3**: DFT/FFT spectral analysis, circular/linear convolution, and image noise reduction.  
 
 ---
 
